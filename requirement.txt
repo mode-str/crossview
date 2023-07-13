@@ -1,0 +1,9 @@
+torch
+torchvision
+pyyaml
+tqdm
+numpy
+scipy
+matplotlib
+pillow
+timm==0.5.4
