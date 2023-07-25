@@ -1,7 +1,7 @@
 # MCCG
 
-This repository contains the dataset link and the code for our paper *MCCG: A ConvNeXt-based Multiple-Classifier
-Method for Cross-view Geo-localization*. Thank you for your kindly attention.
+This repository contains the dataset link and the code for our paper [MCCG: A ConvNeXt-based Multiple-Classifier Method for Cross-view Geo-localization](https://ieeexplore.ieee.org/document/10185134), IEEE Transactions on Circuits and Systems for Video Technology. Thank you for your kindly attention.
+
 
 ## requirement
 1. Download the [University-1652](https://github.com/layumi/University1652-Baseline) dataset
@@ -65,4 +65,15 @@ We provide scripts to complete MCCG training and testing
 * Change the **data_dir** and **test_dir** paths in **run.sh** and then run:
 ```shell
 bash run.sh
+```
+
+## Citation
+
+```bibtex
+@ARTICLE{shen2023MCCG,
+  author={Shen, Tianrui and Wei, Yingmei and Kang, Lai and Wan, Shanshan and Yang, Yee-Hong},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={MCCG: A ConvNeXt-based Multiple-Classifier Method for Cross-view Geo-localization}, 
+  year={2023},
+  doi={10.1109/TCSVT.2023.3296074}}
 ```
