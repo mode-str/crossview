@@ -3,7 +3,7 @@
 This repository contains the dataset link and the code for our paper [MCCG: A ConvNeXt-based Multiple-Classifier Method for Cross-view Geo-localization](https://ieeexplore.ieee.org/document/10185134), IEEE Transactions on Circuits and Systems for Video Technology. Thank you for your kindly attention.
 
 
-## requirement
+## Requirement
 1. Download the [University-1652](https://github.com/layumi/University1652-Baseline) dataset
 2. Download the [SUES-200](https://github.com/Reza-Zhu/SUES-200-Benchmark) dataset
 3. Configuring the environment
