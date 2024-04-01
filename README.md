@@ -70,10 +70,14 @@ bash run.sh
 ## Citation
 
 ```bibtex
-@ARTICLE{shen2023MCCG,
+@ARTICLE{10185134,
   author={Shen, Tianrui and Wei, Yingmei and Kang, Lai and Wan, Shanshan and Yang, Yee-Hong},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={MCCG: A ConvNeXt-based Multiple-Classifier Method for Cross-view Geo-localization}, 
-  year={2023},
+  title={MCCG: A ConvNeXt-Based Multiple-Classifier Method for Cross-View Geo-Localization}, 
+  year={2024},
+  volume={34},
+  number={3},
+  pages={1456-1468},
+  keywords={Feature extraction;Drones;Task analysis;Image segmentation;Semantics;Satellites;Data mining;Cross-view;ConvNeXt;image retrieval;multiple feature representation},
   doi={10.1109/TCSVT.2023.3296074}}
 ```
