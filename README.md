@@ -70,7 +70,7 @@ bash run.sh
 ## Citation
 
 ```bibtex
-@ARTICLE{10185134,
+@ARTICLE{Shen2024MCCG,
   author={Shen, Tianrui and Wei, Yingmei and Kang, Lai and Wan, Shanshan and Yang, Yee-Hong},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={MCCG: A ConvNeXt-Based Multiple-Classifier Method for Cross-View Geo-Localization}, 
